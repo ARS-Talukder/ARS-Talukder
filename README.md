@@ -1,5 +1,5 @@
-#### Hi Everyone🤷‍♂️
-### I'm ARS Talukder🤵 
+#### Hi Everyone 👋
+### I'm ARS Talukder
 ![Web Developer](https://i.ibb.co/hKb06gr/my-cover-short.jpg)
 ### Web Developer💖💖
 
