@@ -1,15 +1,15 @@
-### Hi Everyone 👋
-# It's ARS Talukder
+## Hi Everyone 👋
+# I'm ARS Talukder
 ![Web Developer](https://i.ibb.co/hKb06gr/my-cover-short.jpg)
-### Web Developer
+## I'm Web Developer
 
 
-I am the master of HTML, CSS & JavaScript. 
-I know everything needed to make a website. 
-I never stop before making the website very Gorgeous. 
-If you want a Genius of Web Development. You can hire me. I will give you 100% Web Solution (In-Sha-Allah)
+### I am the master of HTML, CSS & JavaScript. 
+### I know everything needed to make a website. 
+### I never stop before making the website very Gorgeous. 
+### If you want a Genius of Web Development. You can hire me. I will give you 100% Web Solution (In-Sha-Allah)
 
-Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind CSS / Node.js / Express.js
+## Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind CSS / Node.js / Express.js
 
 - 🔭 I’m currently working on Own Project 
 - 🌱 I’m currently learning Python 
