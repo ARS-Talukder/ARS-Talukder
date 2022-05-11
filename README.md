@@ -1,7 +1,7 @@
+### Hi Everyone 👋
+#I'm ARS Talukder
 ![Web Developer](https://i.ibb.co/hKb06gr/my-cover-short.jpg)
-
-### Hi there 👋, I'm ARS Talukder
-#### Web Developer
+### Web Developer
 
 
 I am the master of HTML, CSS & JavaScript. 
