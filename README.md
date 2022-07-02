@@ -5,7 +5,7 @@
 
 
 I am the master😎 of HTML, CSS & JavaScript. 
-I know everything needed to make a website. 
+I know everything what need to make a website. 
 I never stop😊 before making the website very Gorgeous. 
 If you want a Genius😎 of Web Development. You can hire me. I will give you 100% Web Solution (In-Sha-Allah)
 
