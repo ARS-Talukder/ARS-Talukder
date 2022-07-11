@@ -4,12 +4,12 @@
 ### Web Developer💖💖
 
 
-I am the master😎 of HTML, CSS & JavaScript. 
+I am expert😎 of HTML, CSS & JavaScript. 
 I know everything what need to make a website. 
 I never stop😊 before making the website very Gorgeous. 
 If you want a Genius😎 of Web Development. You can hire me. I will give you 100% Web Solution (In-Sha-Allah)
 
-Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind CSS / Node.js / Express.js
+Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind CSS / Node.js / Express.js / Firebase / MongoDB
 
 - 🔭 I’m currently working on Own Project 
 - 🌱 I’m currently learning Python 
