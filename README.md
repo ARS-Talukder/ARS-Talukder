@@ -59,7 +59,7 @@
 
 
 <h4 align="center">Survey with Charts</h4> 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ars-talukder&show_icons=true&locale=en&layout=compact" alt="ars-talukder" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ars-talukder&show_icons=true&locale=en&layout=compact" alt="ars-talukder" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ars-talukder&show_icons=true&locale=en" alt="ars-talukder" /></p>
 
