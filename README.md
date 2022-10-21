@@ -48,7 +48,7 @@
 <h4 align="center">Connect with me</h4>
 <p align="center">
 <a href="https://linkedin.com/in/md-abdur-rahman-20339a241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abdur-rahman-20339a241" height="30" width="40" /></a><a href="https://fb.com/ars.talukder.shadhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ars.talukder.shadhin" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ars_talukder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ars_talukder/" height="30" width="40" /></a>
+<a href="https://instagram.com/ars_talukder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ars_talukder/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/MhyrSYpsRw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MhyrSYpsRw" height="30" width="40" /></a>
 </p>
 <hr/>
