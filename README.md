@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/hKb06gr/my-cover-short.jpg)
+![MasterHead](https://i.ibb.co/xg8VmFF/my-thumbnail.png)
 <h5>My Name,</h5>
 <h4>MD. ABDUR RAHMAN</h4>
 <h6>I'm a REACT Developer | Full Stack Developer | MERN Stack Developer</h6>
