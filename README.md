@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/xg8VmFF/my-thumbnail.png)
+![MasterHead](https://i.ibb.co/nj80LdM/cover-photo.png)
 <h5>My Name,</h5>
 <h4>MD. ABDUR RAHMAN</h4>
 <h6>I'm a REACT Developer | Full Stack Developer | MERN Stack Developer</h6>
@@ -8,13 +8,13 @@
 <h4 align="center">About Me</h4>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ars-talukder&label=Profile%20views&color=0e75b6&style=flat" alt="ars-talukder" /> </p>
-<li>I have accomplished many projects with React.js for client side and Node.js for server side.</li>
-<li>I can design and deploy the database technologies to the website.</li>
+<li>I have accomplished many projects with React.js for client-side and Node.js for server side.</li>
+<li>I can design and deploy database technologies to the website.</li>
 <li>Integrate Front-end user interface with the API.</li>
 <li>Optimize website for devices like mobiles and tablets.</li>
 <li>Ensure the responsiveness of the website.</li>
 <li>Manage the excessiveness of codes.</li>
-<li>Quick learner as well as easily cope with receiving the new technologies.</li>
+<li>Quick learner as well as easily coping with receiving new technologies.</li>
 <li>My Communication Skill is not so poor. I can manage and communicate with others easily.</li>
 <li>The main fact is, I love MYSELF.</li>
 <hr/>
