@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ars-talukder&label=Profile%20views&color=0e75b6&style=flat" alt="ars-talukder" /> </p>
 <li>I have accomplished many projects with React.js for client-side and Node.js for server-side.</li>
-<li>I can design and deploy database technologies to the website.</li>
+<li>I can design and deploy database technologies to the website. </li>
 <li>Integrate Front-end user interface with the API.</li>
 <li>Optimize website for devices like mobiles and tablets.</li>
 <li>Ensure the responsiveness of the website.</li>
