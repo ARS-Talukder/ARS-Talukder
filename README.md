@@ -20,7 +20,7 @@
 <hr/>
 
 <h4 align="center">My Works</h4>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/7j9zcxc/My-Photo-Without-Background-optimized.png">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/V3mTnjP/Without-background.png">
 
 - ✍️ I’m currently working on [The Golden Style](https://the-golden-style.web.app/)
 
